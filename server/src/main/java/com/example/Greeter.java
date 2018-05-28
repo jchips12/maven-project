@@ -1,3 +1,6 @@
+/**
+ * @author jchips12
+ */
 package com.example;
 
 /**
